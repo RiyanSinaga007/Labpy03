@@ -6,7 +6,7 @@ Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi pada saat r
 
 Algoritma Latihan 1 :
 
-1.Mulai
+1.Mulai 
 2.Menampilkan judul Program
 3.Memasukan/ import fungsi RANDOM terlebih dahulu
 4.Deklarasi integer , masukkan jumlah N :
